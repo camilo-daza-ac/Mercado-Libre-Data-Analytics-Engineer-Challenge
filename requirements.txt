@@ -1,0 +1,24 @@
+# Basic
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Dimensionality reduction / embeddings
+umap-learn
+
+# Notebooks
+jupyter
+
+# Generative AI / Embeddings
+openai
+sentence-transformers
+langchain
+tiktoken
+
+# Utils
+python-dotenv
+requests

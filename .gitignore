@@ -1,0 +1,31 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Archivos generados
+*.log
+*.csv.zip
+*.db
+
+# Configs de Mac
+.DS_Store
+
+# Modelos pesados
+models/*.pkl
+models/*.h5
+models/*.joblib
+
+# Carpetas de datos (opcional si no quieres subir data raw)
+data/
+
+# Cache
+.cache/
