@@ -39,10 +39,10 @@ Este repositorio contiene el desarrollo completo del desafío técnico para el r
 
 1. Crear entorno y dependencias
 2. Colocar el CSV original en `data/raw/df_challenge_meli.csv`.
-3. Ejecutar pipeline (Clusterizacion):
+3. Ejecutar pipeline **(Clustering)**:
     PYTHONPATH=src python scripts/run_pipeline.py --data  
     Genera `df_curated.csv`, `outliers_price.csv`, `seller_profile.csv`.
-4. Generar estrategias:
+4. Generar estrategias **(GenAI - opción B)**:
     PYTHONPATH=src python scripts/generate_strategies_demo.py --strategies
     Genera `strategies_sample.csv`
 
