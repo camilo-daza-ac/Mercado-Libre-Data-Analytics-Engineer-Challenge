@@ -24,8 +24,6 @@ models/*.pkl
 models/*.h5
 models/*.joblib
 
-# Carpetas de datos (opcional si no quieres subir data raw)
-data/
 
 # Cache
 .cache/
